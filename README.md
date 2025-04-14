@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Gael, "Tu Socio"
+# ¡Hola! 👋 Soy Gael
 
 ### 👨‍💻 Automatización y Ciencia de Datos para la Generación de Energía
 
